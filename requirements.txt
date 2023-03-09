@@ -1,4 +1,5 @@
-pycrypto
+pycryptodome
 tracetools
-pynblock
-pythales
+git+https://github.com/Vicrius-rogan/pynblock#egg=pynblock
+git+https://github.com/Vicrius-rogan/pythales#egg=pythales
+
